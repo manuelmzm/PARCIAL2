@@ -1,0 +1,4 @@
+https://docs.microsoft.com/es-es/cli/azure/install-azure-cli-windows?tabs=azure-cli
+https://cloud.google.com/kubernetes-engine/docs/concepts/horizontalpodautoscaler
+https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
+https://docs.microsoft.com/es-es/azure/aks/kubernetes-walkthrough
